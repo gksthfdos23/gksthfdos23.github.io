@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gksthfdos23/gksthfdos23.github.io/static/css/main.ecac600c.css",
-    "main.js": "/gksthfdos23/gksthfdos23.github.io/static/js/main.279efe8f.js",
-    "static/js/787.a3f0d66e.chunk.js": "/gksthfdos23/gksthfdos23.github.io/static/js/787.a3f0d66e.chunk.js",
-    "index.html": "/gksthfdos23/gksthfdos23.github.io/index.html",
-    "main.ecac600c.css.map": "/gksthfdos23/gksthfdos23.github.io/static/css/main.ecac600c.css.map",
-    "main.279efe8f.js.map": "/gksthfdos23/gksthfdos23.github.io/static/js/main.279efe8f.js.map",
-    "787.a3f0d66e.chunk.js.map": "/gksthfdos23/gksthfdos23.github.io/static/js/787.a3f0d66e.chunk.js.map"
+    "main.css": "/static/css/main.ecac600c.css",
+    "main.js": "/static/js/main.a7e632c9.js",
+    "static/js/787.a3f0d66e.chunk.js": "/static/js/787.a3f0d66e.chunk.js",
+    "index.html": "/index.html",
+    "main.ecac600c.css.map": "/static/css/main.ecac600c.css.map",
+    "main.a7e632c9.js.map": "/static/js/main.a7e632c9.js.map",
+    "787.a3f0d66e.chunk.js.map": "/static/js/787.a3f0d66e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecac600c.css",
-    "static/js/main.279efe8f.js"
+    "static/js/main.a7e632c9.js"
   ]
 }
